@@ -1,6 +1,6 @@
 ## Hi, I'm Jovatis
 
-I'm 17 years old and currently studying Cybersecurity, Computer Networks and Electronics (Bac Pro CIEL) in France.
+I'm 17 years old and currently studying Cybersecurity, Computer Networks and Electronics in France.
 
 I'm interested in software development, cybersecurity, networking and learning how things work behind the scenes.
 
