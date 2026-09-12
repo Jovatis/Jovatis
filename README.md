@@ -1,30 +1,53 @@
 ## 👋 Hi, I'm Jovatis
 
-I'm 17 years old and currently studying Cybersecurity, Computer Networks and Electronics in France.
-I'm interested in software development, cybersecurity, networking and learning how things work behind the scenes.
-Most of my projects are personal experiments. I like building small tools, trying out new technologies and improving my projects over time. I also use AI tools and coding agents to help me explore ideas and build projects.
+I'm 17 years old and currently studying **Cybersecurity, Computer Networks and Electronics** in France 🇫🇷.
 
-### 🌍 Languages Spoken
-<img width="70" height="60" alt="image" src="https://github.com/user-attachments/assets/66eee065-8cfd-41da-b075-e657ba796d04" />  <img width="70" height="60" alt="image" src="https://github.com/user-attachments/assets/15770761-44ed-4bd2-b952-395738ea9b7c" />
+I'm interested in:
+- 💻 Software development
+- 🔐 Cybersecurity
+- 🌐 Networking
+- ⚙️ Systems & how things work behind the scenes
+- 🤖 Local AI
 
+Most of my projects are **personal experiments**. I enjoy building small tools, exploring new technologies, and improving my projects over time.
 
+I also use **AI agents** to explore ideas, experiment faster, and build projects.
 
-### 🌱 Currently learning
+---
 
-Computer networking
-Cybersecurity
-APIs
-Software testing
-GitHub Actions
-Local AI
+### 🌍 Languages
+
+<img width="70" height="60" alt="French" src="https://github.com/user-attachments/assets/66eee065-8cfd-41da-b075-e657ba796d04" />  <img width="70" height="60" alt="English" src="https://github.com/user-attachments/assets/15770761-44ed-4bd2-b952-395738ea9b7c" />
+
+---
+
+### 🌱 Currently Learning
+
+- 🌐 Computer Networking
+- 🔐 Cybersecurity
+- 🔌 APIs
+- 🧪 Software Testing
+- ⚡ GitHub Actions
+- 🤖 Local AI
+
+---
+
 ### ⌚ Currently
 
-I'm working on improving my programming skills and learning more about software development, systems, networking and cybersecurity.
-I mainly learn by building things, experimenting and trying to understand how the projects I work on actually function.
+I'm working on improving my programming skills and learning more about **software development, systems, networking and cybersecurity**.
+
+I mainly learn by **building, experimenting, breaking things, and figuring out how they work**.
+
+---
+
 ### 🎯 Goals
 
-My goal is to keep improving my technical skills, build more complex projects and develop a better understanding of the software and systems I work with.
-I'm still learning, so most of my repositories are experiments and personal projects rather than finished products.
+My goal is to keep improving my technical skills, build more complex projects, and develop a deeper understanding of the software and systems I work with.
+
+> Most of my repositories are experiments and personal projects rather than finished products.
+
+---
+
 ### 📞 Contact
 
-GitHub: @Jovatis
+**GitHub:** [@Jovatis](https://github.com/Jovatis)
