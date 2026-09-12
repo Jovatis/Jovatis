@@ -5,7 +5,7 @@ I'm interested in software development, cybersecurity, networking and learning h
 Most of my projects are personal experiments. I like building small tools, trying out new technologies and improving my projects over time. I also use AI tools and coding agents to help me explore ideas and build projects.
 
 ### 🌍 Languages Spoken
-<img width="90" height="60" alt="image" src="https://github.com/user-attachments/assets/66eee065-8cfd-41da-b075-e657ba796d04" />  <img width="90" height="60" alt="image" src="https://github.com/user-attachments/assets/15770761-44ed-4bd2-b952-395738ea9b7c" />
+<img width="75" height="60" alt="image" src="https://github.com/user-attachments/assets/66eee065-8cfd-41da-b075-e657ba796d04" />  <img width="75" height="60" alt="image" src="https://github.com/user-attachments/assets/15770761-44ed-4bd2-b952-395738ea9b7c" />
 
 
 
