@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Jovatis <img width="100" height="100" alt="logojv2" src="https://github.com/user-attachments/assets/1af0a5ec-3c22-4365-beba-84992c205b6b" />
+## 👋 Hi, I'm Jovatis <img width="20" height="20" alt="logojv2" src="https://github.com/user-attachments/assets/1af0a5ec-3c22-4365-beba-84992c205b6b" />
 
 
 I'm 17 years old and currently studying **Cybersecurity, Computer Networks and Electronics** in France 🇫🇷.
