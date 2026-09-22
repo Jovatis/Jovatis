@@ -50,5 +50,6 @@ My goal is to keep improving my technical skills, build more complex projects, a
 ---
 
 ### 📞 Contact
-
+**Website:** [jovatis.github.io](https://jovatis.github.io/)
+**Instagram:** [@Jovatis](https://www.instagram.com/jovatis_dev/)
 **GitHub:** [@Jovatis](https://github.com/Jovatis)
